@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Homebrew</name>
+		<description>Homebrew content.</description>
+		<author>Aeroventilas</author>
+		<update version="0.0.1">
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/homebrew/homebrew.index" />
+		</update>
+	</info>
+	<files>	
+		
+		<!-- items -->
+		<file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic-2.xml" />
+
+	</files>
+</index>
