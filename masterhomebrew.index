@@ -2,20 +2,14 @@
 <index>
 	<info>
 		<name>Master Homebrew</name>
-		<description>NA</description>
-		<author>Aeroventilas</author>
-		<update version="0.1.1">
+		<description>Homebrew Material.</description>
+		<update version="0.0.1">
 			<file name="masterhomebrew.index" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/masterhomebrew.index" />
 		</update>
 	</info>
 	<files>
-		<file name="planeshift.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/planeshift.index" />
 
-		<!-- 2021 -->
-		<file name="20210126.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210126.xml" />
-		<file name="20210311.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210311.xml" />
-		<file name="20210414.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210414.xml" />
-		<file name="20210608.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210608.xml" />
-		<file name="20211008.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20211008.xml" />
+		<file name="homebrew.index" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/homebrew/homebrew.index" />
+
 	</files>
 </index>
