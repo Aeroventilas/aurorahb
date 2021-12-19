@@ -11,7 +11,7 @@
 	<files>	
 		
 		<!-- items -->
-		<file name="hbitems.xml" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/homebrew/items/hbitems.xm" />
+		<file name="hbitems.xml" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/homebrew/items/hbitems.xml" />
 
 	</files>
 </index>
