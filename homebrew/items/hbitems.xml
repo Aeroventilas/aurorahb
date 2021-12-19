@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Homebrew Items</name>
+		<update version="0.0.1">
+			<file name="hbitems.xml" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/homebrew/items/hbitems.xml" />
+		</update>
+	</info>
 
+	<element name="Homebrew Items" type="Source" source="Core" id="ID_MHB_HB_SOURCE_HBITEMS">
+		<description>
+			<p><strong>Homebrew Items.</strong></p>
+		</description>
+		<setters>
+			<set name="abbreviation">HBI</set>
+			<set name="url">https://www.dmsguild.com</set>
+			<set name="image">http://www.leonineroar.com/wp-content/uploads/2011/06/RC-Treasure.jpg</set>
+			<set name="author" abbreviation="HBI" url="https://www.dmsguild.com>Aeroventilas</set>
+			<set name="third-party">true</set>
+			<set name="release">20211218</set>
+		</setters>
+	</element>
+
+	<element name="Wand of Firebolts" type="Magic Item" source="Homebrew Items" id="ID_MHB_HB_MAGIC_ITEM_FIREBOLTWAND">
+		<description>
+			<p>This small wand has 10 charges. While holding it, you can use an action to expend up to 1 of its charges to cast the fire bolt spell from it (Caster Level).</p>
+			<p class="indent">Also, you can spend a bonus action to use it as lighter.</p>
+			<p class="indent">The wand regains 1d4 + 1 expended charges after a long rest. If you expend the wand’s last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.</p>
+		</description>
+		<setters>
+			<set name="category">Wands</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="slot">onehand</set>
+			<set name="type">Wand</set>
+			<set name="rarity">Uncommon</set>
+		</setters>
+	</element>
+</elements>
