@@ -11,7 +11,7 @@
 	<files>	
 		
 		<!-- items -->
-		<file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic-2.xml" />
+		<file name="hbitems.xml" url="https://raw.githubusercontent.com/Aeroventilas/aurorahb/master/homebrew/items/hbitems.xm" />
 
 	</files>
 </index>
