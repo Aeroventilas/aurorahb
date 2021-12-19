@@ -1,3 +1,4 @@
+!234567891112345678921234567893123456789412345678951234567896123456789712345678981234
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
@@ -15,7 +16,7 @@
 			<set name="abbreviation">HBI</set>
 			<set name="url">https://www.dmsguild.com</set>
 			<set name="image">http://www.leonineroar.com/wp-content/uploads/2011/06/RC-Treasure.jpg</set>
-			<set name="author" abbreviation="HBI" url="https://www.dmsguild.com>Aeroventilas</set>
+			<set name="author" abbreviation="HBI" url="https://www.dmsguild.com/>Aeroventilas</set>
 			<set name="third-party">true</set>
 			<set name="release">20211218</set>
 		</setters>
